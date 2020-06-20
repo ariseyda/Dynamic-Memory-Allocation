@@ -29,7 +29,7 @@ int main(){
 		
 	p=realloc(p,size*sizeof(int));
 	//It takes two parameters. 
-    //The first parameter is the pointer you want to change. 
+        //The first parameter is the pointer you want to change. 
 	//The second parameter is the new dimension. Thus, I can reduce or increase the size I first reserve with realloc.
 	
 	
