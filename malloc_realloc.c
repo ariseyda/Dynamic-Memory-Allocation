@@ -21,7 +21,7 @@ int main(){
 	    for(i=0;;i++){
 	      scanf("%d",&p[i]);
 	      if(p[i]==0){
-			break;
+		  break;
 		}
 		  size++;
 	 }
